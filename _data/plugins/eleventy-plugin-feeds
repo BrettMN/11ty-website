@@ -1,0 +1,5 @@
+{
+	"npm": "eleventy-plugin-feeds",
+	"author": "BrettMN",
+	"description": "An Eleventy plugin to generate RSS feeds."
+}
